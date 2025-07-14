@@ -2,6 +2,8 @@
 
 [Nord](https://www.nordtheme.com/) theme for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit), built on top of [MarkEdit-theming](https://github.com/MarkEdit-app/MarkEdit-theming).
 
+To customize colors, see [Customization](https://github.com/MarkEdit-app/MarkEdit-theming/wiki#customization) for details.
+
 > This theme is used in dark mode only.
 
 ## Installation
