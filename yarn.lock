@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-"@babel/runtime@^7.0.0":
-  version "7.27.6"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.27.6.tgz#ec4070a04d76bae8ddbb10770ba55714a417b7c6"
-  integrity sha512-vbavdySgbTTrmFE+EsiqUTzlOr5bzlnJtUv9PynGCAKvfQqjIXbvFdumPM/GxMDfyuGMJaJAU6TO4zc1Jf1i8Q==
-
 "@codemirror/language@^6.0.0":
   version "6.11.2"
   resolved "https://registry.yarnpkg.com/@codemirror/language/-/language-6.11.2.tgz#90d2d094cfbd14263bc5354ebd2445ee4e81bdc3"
@@ -302,21 +297,10 @@
   dependencies:
     undici-types "~6.21.0"
 
-"@uiw/codemirror-theme-nord@^4.23.14":
-  version "4.24.0"
-  resolved "https://registry.yarnpkg.com/@uiw/codemirror-theme-nord/-/codemirror-theme-nord-4.24.0.tgz#6e7a0a27c96f7aaafa2306104de9e0ca099cda8b"
-  integrity sha512-qg684/5ADvDz7LrApf5xCEit5UL2Fo0zMC2KRV1dFRX3svaaXsTPHou1vgLcXggdmNhuYSCibQ7F+CaVn1lwrw==
-  dependencies:
-    "@uiw/codemirror-themes" "4.24.0"
-
-"@uiw/codemirror-themes@4.24.0":
-  version "4.24.0"
-  resolved "https://registry.yarnpkg.com/@uiw/codemirror-themes/-/codemirror-themes-4.24.0.tgz#7136d95b48be7d6c49f014d793934d978ae896c3"
-  integrity sha512-Bsq/j7ASqNcdboacM9KVdxnBlkiMZEk4rpq1FLTnYNULqGUVuP1BoUNoMEZ/CaxQAlUez6m5MskMxPKj3YEa3A==
-  dependencies:
-    "@codemirror/language" "^6.0.0"
-    "@codemirror/state" "^6.0.0"
-    "@codemirror/view" "^6.0.0"
+cm6-theme-nord@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/cm6-theme-nord/-/cm6-theme-nord-0.2.0.tgz#2a00c47cdf6119b8248dbed8d9b572841bf321a7"
+  integrity sha512-jTh+5nvl+N/5CtTK7UVcrxDCj2AOStvbNM8uP6tx6amq4QaaLDlapjMw+MNzEkvxcPnHY+YM91tbklS2KNlR2w==
 
 crelt@^1.0.6:
   version "1.0.6"
@@ -369,9 +353,9 @@ fsevents@~2.3.2, fsevents@~2.3.3:
   version "0.11.0"
   resolved "https://github.com/MarkEdit-app/MarkEdit-api#8a82bb1eeb15c47eedba8803245fe64cd1e6940f"
 
-"markedit-theming@https://github.com/MarkEdit-app/MarkEdit-theming#v0.11.0":
-  version "0.11.0"
-  resolved "https://github.com/MarkEdit-app/MarkEdit-theming#2296394a5dccf9ad25638de6b756e316c2e22603"
+"markedit-theming@https://github.com/MarkEdit-app/MarkEdit-theming#v0.12.0":
+  version "0.12.0"
+  resolved "https://github.com/MarkEdit-app/MarkEdit-theming#04aef1001e59b907c9bae844215010869c11901f"
 
 "markedit-vite@https://github.com/MarkEdit-app/MarkEdit-vite#v0.3.0":
   version "0.3.0"

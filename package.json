@@ -9,7 +9,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@babel/runtime": "^7.0.0",
     "@codemirror/language": "^6.0.0",
     "@codemirror/state": "^6.0.0",
     "@codemirror/view": "^6.0.0",
@@ -20,7 +19,7 @@
     "vite": "^7.0.0"
   },
   "dependencies": {
-    "@uiw/codemirror-theme-nord": "^4.23.14",
-    "markedit-theming": "https://github.com/MarkEdit-app/MarkEdit-theming#v0.11.0"
+    "cm6-theme-nord": "^0.2.0",
+    "markedit-theming": "https://github.com/MarkEdit-app/MarkEdit-theming#v0.12.0"
   }
 }
