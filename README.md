@@ -2,7 +2,7 @@
 
 [Nord](https://www.nordtheme.com/) theme for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit), built on top of [MarkEdit-theming](https://github.com/MarkEdit-app/MarkEdit-theming).
 
-<img width="344" title="Nord" src="https://github.com/user-attachments/assets/838ca6f1-27d9-4e63-a601-46453bdb23e6" />
+<img width="344" title="Nord" src="https://github.com/user-attachments/assets/838ca6f1-27d9-4e63-a601-46453bdb23e6" /><br>
 
 To customize colors, see [Customization](https://github.com/MarkEdit-app/MarkEdit-theming/wiki#customization) for details.
 
